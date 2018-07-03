@@ -222,7 +222,7 @@ MonoBehaviour:
   PlayerSpeed: 3
   BulletSpeed: 6
   PlayerFireDelay: 0.3
-  BulletLiveTime: 5
+  BulletLiveTime: 2
   Bullet: {fileID: 1316456715079018, guid: de31aac51dfa32b49ba7d95981a02948, type: 2}
   Player: {fileID: 1294729939745042, guid: a97c38a7cbdaa33408db632090d2b318, type: 2}
 --- !u!114 &2106439169
